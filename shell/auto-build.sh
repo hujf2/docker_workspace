@@ -1,7 +1,7 @@
 
 
 
-cd /home/docker_workspace/
+cd /home
 array=(zipkin-server  spring-boot-mq  mybatis-spring-boot-kettle-engine  microservice-spring-job  microservice-gateway-zuul  spring-boot-line  microservice-frontend microservice-discovery-eureka)
 
 #array=(mybatis-spring-boot-kettle-engine)
